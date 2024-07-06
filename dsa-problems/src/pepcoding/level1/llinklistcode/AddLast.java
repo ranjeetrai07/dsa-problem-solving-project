@@ -1,6 +1,4 @@
-package pepcoding.llinklistcode;
-
-import generic_datastructure.linked_list.Node;
+package pepcoding.level1.llinklistcode;
 
 public class AddLast {
 

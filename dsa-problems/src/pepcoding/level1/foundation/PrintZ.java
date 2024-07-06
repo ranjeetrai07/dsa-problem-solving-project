@@ -1,4 +1,4 @@
-package pepcoding.foundation;
+package pepcoding.level1.foundation;
 
 public class PrintZ {
 
