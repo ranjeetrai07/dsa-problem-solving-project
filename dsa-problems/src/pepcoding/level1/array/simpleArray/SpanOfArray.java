@@ -1,4 +1,4 @@
-package pepcoding.level1.array;
+package pepcoding.level1.array.simpleArray;
 
 import java.util.Scanner;
 
