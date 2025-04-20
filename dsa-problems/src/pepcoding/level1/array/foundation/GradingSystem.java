@@ -1,4 +1,4 @@
-package pepcoding.level1.foundation;
+package pepcoding.level1.array.foundation;
 
 import java.util.Scanner;
 
